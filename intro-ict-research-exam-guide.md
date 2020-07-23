@@ -46,12 +46,17 @@ ___
 > *A research project is a project where the goal or purpose is to **create new knowledge***
 
 **research project phases** ***be prepared to describe each phase..*
-* read relevant literature
-* define research problem
-* design research
-* collect data
-* analyse data
-* report findings
+* read relevant literature - *(topic 3)*
+* `define research problem` - *this is the phase whereby you define your problem statement along with the variables involved (`independent/dependent`), `hypotheses`, `theories` and `models`. if there are no specific questions, you should then define your research aim or objective clearly. (topic 4)*
+* `design research` - 
+* `collect data` - 
+* `analyse data` - 
+* `report findings` - 
+
+> **sample question**   
+>A research project commonly includes the following phases: define research problem, design research, collect data, analyse data and report findings.   
+>
+> In your own words, briefly describe what **`occurs`** in each of these phases.
 
 **types of research approaches**
 * survey - *collects the same data from a large group of people*
@@ -165,9 +170,9 @@ ___
 * what are the main types of information that a write up of a research project should include?
 * how do the goals of oral presentations and written reports of research differ?
 
-**`recap`: project research phases** *read relevant literature*
+**`recap`: project research phases** -> *read relevant literature*
 
-![research project phases](resources\images\research-project-phases.jpg)
+![research project phases](resources/images/research-project-phases.jpg)
 
 > **what is a `literature review`?**
 > *a critical anlaysis of published sources or literatures of a topic. the output of the review should describe, summarise, synthesise and evaluate the featured literatures.*
@@ -209,11 +214,12 @@ ___
 * create a hypothesis
 * identify iv and dv
 
-**`recap`: project research phases** *define research problem*
+**`recap`: project research phases** -> *define research problem*
 
-![research project phases](resources\images\research-project-phases.jpg)
+![research project phases](resources/images/research-project-phases.jpg)
 
 **`research question` / aka rq**  
+
 **some examples:**
 * what factors influence a user's security behaviour?
 * why are users susceptible to phishing attacks?
@@ -250,8 +256,7 @@ may include:
 * `models` - *represents a situation or system and it is used to help understand it (framework?)*
     * some [examples](https://is.theorizeit.org/wiki/Main_Page) for theories and models
 
-**sample exam question**
+> **sample question 1**  
 > The Internet of Things (IoT) provides huge potential benefits, yet has privacy and security issues. You are interested in how potential users’ perceptions of the risks influence their intentions to acquire IoT devices.  
 >
 > Identify a research question and hypothesis for a research study you might undertake to investigate one aspect of this issue. Label the independent variable and the dependent variable in your hypothesis.
-
