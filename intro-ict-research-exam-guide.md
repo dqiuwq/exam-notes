@@ -153,3 +153,37 @@ ___
         * if project is not completed, there should be a formal closure in order to reflect on what can be learned from the past and to improve on future projects.
         * output includes `project archives` and `lessons learned report`
         * most projects will include a final report or a presentation
+
+___
+
+### **Topic 3** : Literature Review
+### learning outcomes
+* what are the objectives of a literature review
+* ~~can you find and obtain relevant published literature?~~
+* ~~can you cite references using IEEE and APA styles?~~
+* what are the main types of information that a write up of a research project should include?
+* how do the goals of oral presentations and written reports of research differ?
+
+> **what is a `literature review`?**
+> *a critical anlaysis of published sources or literatures of a topic. the output of the review should describe, summarise, synthesise and evaluate the featured literatures.*
+
+>**purpose of `literature review`**  
+> *useful to gather knowledge about a topic, specifically to find out what has been research. it can be help to develop a broad conceptual context into a research.*
+
+**steps to conduct during a lit review**
+* search for literatures
+* obtain materials (hard/soft)
+* assess the credibility
+* read and understand
+* critically evaluate the quality
+* record the bibliographic details
+> **literature review as standalone**
+> *enables others to understand the field, point to strengths, weaknesses, omissions or bias in the previous work, point to gaps that have not previously been identified or addressed.*  
+> **literature review in research paper**
+> *establish the need for a research, place the researcher's work in the context of what has already been published, introduce the theories, relevant methodologies or strategies that will be used in the research.*
+
+**structure of research papers**
+* beginning - *title, author, abstract, keywords*
+* middle - *introduction, lit review, research methodology, results, discussion which includes limitations, implications, future research.*
+* end - *references, appendices*
+
