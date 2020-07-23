@@ -13,6 +13,10 @@
 10. Creating ICT Artefacts as Part of Research
 
 ## Tutorials
+* [tutorial 1]()
+* [tutorial 2]()
+* [tutorial 3]()
+* [tutorial 4]()
 * [tutorial 10]()
 * [tutorial 11](https://kaplanint-my.sharepoint.com/:x:/g/personal/elam_apac_kaplaninc_com/EW5CWtF_xXFKpfJXfAdPubEBohnTFimNlpwRs9i7tVjxFA?rtime=6ww4dlou2Eg)
 
@@ -26,22 +30,19 @@ ___
 * what are usually the main stages in a research project?
 * what are these research approaches?
 
-> **research is the creation of new knowledge**  
-> *the definition of research are generally to do with observing and describing, predicting and determining causes.*
+> **what is `research`?** *it is the creation of new knowledge, using an appropriate process.
+> the definition of research are generally to do with observing and describing, predicting and determining causes.*
 
-> **types of Research**
-> * exploratory research - *To get a better understanding, test the feasibility or determine the best method to be used in a subsequent study. Main objective is to identify key issues and key variables.*
-> * descriptive research - *To study on something new or something that people are not aware about. It is directed towards answering questions such as what is this? e.g. what is covid19?*
-> * explanatory research - *To understand or to explain relationships between targeted variables. Often uses correlations to study relationships between characteristics off individuals, groups, situations or events.*
+**types of Research**
+* exploratory research - *To get a better understanding, test the feasibility or determine the best method to be used in a subsequent study. Main objective is to identify key issues and key variables.*
+* descriptive research - *To study on something new or something that people are not aware about. It is directed towards answering questions such as what is this? e.g. what is covid19?*
+* explanatory research - *To understand or to explain relationships between targeted variables. Often uses correlations to study relationships between characteristics off individuals, groups, situations or events.*
 
-> **scientific research**
-> *an investigation on the basic principles and reasons for occurence of a particular event or process or phenomenon. Also known as theoretical research. Note that a research does not concern with solving any practical problems of immediate interest. It basically provides a systematic and deep insight into a problem and facilitates extraction of scientific and logical explanation and clusion on the topic.*
+> **scientific or academic research** - *an investigation on the basic principles and reasons for occurence of a particular event or process or phenomenon. Also known as theoretical research. Note that a research does not concern with solving any practical problems of immediate interest. It basically provides a systematic and deep insight into a problem and facilitates extraction of scientific and logical explanation and clusion on the topic.*
 
-> **ict research**  
-> *The creation of new knowledge in any area of ICT*
+> **ict research** - *the creation of new knowledge in any area of ICT*
 
-> **project** vs **research Project**  
-> *It is a temporary sequence of unique and connected activites having one goal or purpose and that must be completed by a specific time, within budget, and according to specification.*
+> **project** vs **research Project** - *it is a temporary sequence of unique and connected activites having one goal or purpose and that must be completed by a specific time, within budget, and according to specification.*
 > *A research project is a project where the goal or purpose is to **create new knowledge***
 
 **research project phases** ***be prepared to describe each phase..*
@@ -164,6 +165,10 @@ ___
 * what are the main types of information that a write up of a research project should include?
 * how do the goals of oral presentations and written reports of research differ?
 
+**`recap`: project research phases** *read relevant literature*
+
+![research project phases](resources\images\research-project-phases.jpg)
+
 > **what is a `literature review`?**
 > *a critical anlaysis of published sources or literatures of a topic. the output of the review should describe, summarise, synthesise and evaluate the featured literatures.*
 
@@ -186,4 +191,67 @@ ___
 * beginning - *title, author, abstract, keywords*
 * middle - *introduction, lit review, research methodology, results, discussion which includes limitations, implications, future research.*
 * end - *references, appendices*
+
+___
+
+### **Topic 4** : Scientific Investigation
+### learning outcomes
+* what is explanatory research?
+* what is a variable?
+* how to independent and dependent variables differ?
+* what is a hypothesis?
+* what is a theory?
+* what is a model?
+* can you generat a hypothesis based on a research question?  
+
+### `extended` learning for exams
+* create a research question
+* create a hypothesis
+* identify iv and dv
+
+**`recap`: project research phases** *define research problem*
+
+![research project phases](resources\images\research-project-phases.jpg)
+
+**`research question` / aka rq**  
+**some examples:**
+* what factors influence a user's security behaviour?
+* why are users susceptible to phishing attacks?
+* if there aren't any explicit rq, a clear research `aim` or `objective` should be established.
+    * to find an effective way to train people to identify and avoid phishing web sites.
+    * `aim` - *what are you going to do*
+    * `objective` - *so that you can fulfil that*
+* *prepare more examples for exam..*
+
+**explanatory research** - *trying to establish cause and effect*
+
+may include:
+* `variables` - *can be any value that varies (e.g. quantity or quality)*
+    * `dependent` variables - *the variable that a researcher is interested in.*
+        * changes as a result from the change on iv (`effect`)
+    * `independent` variables - *the variable that is believed to affect the dependent variable.*
+        * changes one or more dv (`cause`)
+    * operational definitions such as processor speed (mghz) or weight (mg/g/kg)
+* `hypotheses` - *a statement about the relationship between the iv and dv*
+    * the relationship in a hypothesis specifies how the value of one variable changes in relation to another.
+        * *the relationship may be positive or negative or the variables may have no relationship to one another (aka null hypotheses h0)*
+    * some examples:
+        * *h1 - `system quality` positively affects `user satisfaction` with the system*
+            * iv - system quality
+            * dv - user satisfaction
+        * *h2 - the perceived threat severity of an outdated browser will influence a user's intention to update the browser*
+    * ***`note: hypotheses are usually derived from, and justified by the literature that has been reviewd.`***
+    * types of hypotheses
+        * `null` - *there are no gender differences in levels of internet use*
+        * `non-directional` - *there are gender differences in levels of internet use*
+        * `directional` - *males have higher levels of internet use than females*
+            * which is the iv and dv?
+* `theories` - *an interrelated set of statements of relationship whose purpose is to explain and predict* 
+* `models` - *represents a situation or system and it is used to help understand it (framework?)*
+    * some [examples](https://is.theorizeit.org/wiki/Main_Page) for theories and models
+
+**sample exam question**
+> The Internet of Things (IoT) provides huge potential benefits, yet has privacy and security issues. You are interested in how potential users’ perceptions of the risks influence their intentions to acquire IoT devices.  
+>
+> Identify a research question and hypothesis for a research study you might undertake to investigate one aspect of this issue. Label the independent variable and the dependent variable in your hypothesis.
 
