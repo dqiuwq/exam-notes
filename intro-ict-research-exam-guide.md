@@ -260,3 +260,67 @@ may include:
 > The Internet of Things (IoT) provides huge potential benefits, yet has privacy and security issues. You are interested in how potential users’ perceptions of the risks influence their intentions to acquire IoT devices.  
 >
 > Identify a research question and hypothesis for a research study you might undertake to investigate one aspect of this issue. Label the independent variable and the dependent variable in your hypothesis.
+
+## **Topic 5** : Ethical Considerations in ICT Research
+### learning outcomes
+* benefits and harsm of each course of action
+* best overall consequences
+* moral rights of all affected parties
+* treat everyone equally
+* develop moral virtues
+* demonstrate compassionte care
+
+there were no slides..
+
+## **Topic 6** : Monitoring & Controlling Project Deliverables
+### learning outcomes
+* why must projects be monitored and controlled?
+* what are the key monitoring and controlling processes?
+* can you use gantt charts and network diagrams to monitor projects?
+* can you describe the common tools used for quality management?
+
+> **why monitor and control is important?**  
+> *(1) to ensure that the project is meeting its objectives and addressing the problem/opportunities/directives that the project was initiated/started to deal with. (2) checking the progress of the project and take corrective actions when necessary.*
+
+**recap: reasons why a project fail**
+* only project team is interested in the end result
+* no one is in charge
+* insufficient resources
+* project not tracking against the plan
+* no communication
+* project stays from original goal
+
+**5 project management process group**
+1. initiating
+2. planning
+3. execution
+4. `monitoring and controlling` - *involves measuring the progression towards project goal while monitoring deviation and taking correct actions.* (topic 2 repeated)
+    * **outputs** include performance reports and changes or updates to the actual plan. schedule can be monitored using `tracking gantt`.
+    * **`baseline`** - an approved project management plan with approved changes.
+    * list of **work/processes** in this phase includes:
+        * **monitoring and controlling project work** - *collect and disseminate performance information and use the collected information to forecast where the corrective action might be required.*
+            * outputs include recommended corrective and preventive actions, forecasts, requested changes
+        * **integrated change control** - *ensures that changes are managed across the project knowledge areas.*
+            * outputs include approved and rejected change requests, any updates to the project plan such as scope or requirements, approved corrective and preventive actions.
+        * **scope verification** - *ensures that project deliverables are formally accepted.*
+        * scope control - *ensures that changes to project scope are controlled.*
+            * `control` and `verification `involve updates to the project plan and specification documentation.
+        * **schedule control** - *monitors and control changes to project schedule.*
+            * outputs include updates to project plan, requested changes and recommended corrective actions.
+                * tools: tracking gantt and network diagrams
+                * monitoring critical path and slack time:
+                    * critical path - the sequence of dependent tasks which determines the earliest possible complettion date of the project. tasks on the critical path cannot be delayed without delaying the entire project schedule.
+                    * slack time - the amount of delay that can be tolerated between any non-critical task without causing a delay to the completion date of the project.
+        * **cost control** - *monitors and control costs and changes to the project budget.*
+            * outputs inlude estimated cost updates, requested changes, recommended corrective actions.
+            * updates to the project management plan
+        * **qualtiy control performance** - *measure the results of the project to check if it has met the quality standards.*
+            * outputs include quality control measures, recommended corrective and preventive actions, requsted changes, updates to project plan.
+                * tools: cause-effect diagram (ishikawa), run chart, control chart, scatter diagrams, histograms, pareto chart and flowchart.
+        * **managing the project team resouces** - *tracks team's performance, provide feedback, resolve issues and coordinate changes.*
+        * **managing the stakeholders** - *manages stakeholder communications and work with stakeholders to ensure that requirements are met and issues are resolved.*
+            * outputs include status report, resolved issues, approved corrective actions, updates to project plan.
+5. closing
+
+*try to explain each process group with examples.*
+
