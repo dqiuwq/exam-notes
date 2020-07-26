@@ -324,3 +324,114 @@ there were no slides..
 
 *try to explain each process group with examples.*
 
+## **Topic 7** : Conducting Survey Research
+### learning outcomes
+* what is survey research?
+* what are the main approaches used to collect data in survey research?
+* how does a research sample differ from a target population?
+* what is a sampling frame?
+* why are pre-testing and pilot testing used?
+* how do probability and non-probability sampling techniques differ?
+* what are the advantages of survey research?
+* what are the disadvantages of survey research?
+
+> *A `survey` is about finding perception, it tells you what is going on, not telling you why.*
+
+**`recap`: project research phases** -> *design research & collect data*
+
+![research project phases](resources/images/research-project-phases.jpg)
+
+**design research** - after the research question or problem has been specified, we will determine how the aims will be achieved and have the research questions answered.
+
+**types of research strategy or approach:**
+* survey
+* design and creation
+* experiment
+* case study
+* action research
+
+**survey** - obtaining the same kinds of data from a large group of entitiles, people or events in a systematic way.
+
+**there are serveral ways to generate data using survey such as:**
+* quantitative
+    * questionnaires
+    * interviews
+* qualitative
+    * observation
+    * document analysis
+
+**steps for planning a survey research**
+* decide on data requirements - *what data will be needed to answer the research questions?*
+* decide on data generation method - *questionnaires/interviews/observation/document analysis*
+* obtain `sampling frame`
+* determine `sampling technique`
+* design data collection instruments
+
+**questionnaires** - printed/online questionnaires or face-to-face/telephone interviews
+
+**designing questionnaires**
+* form of administration - *self-administered or researcher-administered*
+* list or type of questions
+    * open questions or close questions
+    * types of scale (yes/no, quantity, agree/disagree)
+* layout and structure - *explain purpose, how to complete and return*
+
+**3 key terms:**
+1. population of interest - *the groupd that you want to generalise your study to.*
+    * trying to find out the voters of singapore citizens
+    * whole population of singapore is 5 mil, this is the population of interest.
+2. sampling frame - *the list from which sample will be drawn upon. this should contain the whole population of interest*
+    * for statically study, choosing a sampling size
+    * find a list of people that you can get in touch to do my study
+3. sample - *the actual size that you are collecting data from.*
+    * picking the sample size from sampling (sub set of sampling size e.g sampling frame=1000 sample=500) size should be smaller than or equal to sampling frame.
+
+**sampling techniques**
+* `probability sampling techniques` - *every element in the population has a known non-zero probability of selection.*
+    * random sampling - *samples are randomly selected from population of interest. every item in the population has the same probability of being in the sample.*
+    * variations - *random selection at some point*
+        * systematic sampling - *getting a sample by intervals*
+        > the randomness is the order of the list and  the number that you pick
+        * stratified sampling - *getting a sample by profiles*
+        > the key is to strike a balance in profile e.g. forming a team by major of students
+        * cluster sampling - *getting subset of whole population*
+        > e.g. height of all singapore citizens in areas of singapore (e.g. woodlands, jurong etc.)  
+        > e.g. find the sample using generalisation by an area
+* `non-probability sampling techniques` - *probability of any member of the population being chosen is unknown*
+    * purposive sampling - *deliberately hand-pick samples*
+    > e.g. someone of this profile to be part of my study or not you will but by change you will be.
+    * snowball sampling - *find one person from the target population, then ask for recommendations on potential candidates that are relevant to the research.*
+    > dead end is when someone who refuse to give you contact
+    * convenience sampling - *researchers simply select respondents who are convenient for them (e.g. easy to reach or willing to help)*
+    > e.g. i am a tutor who has access to students of my class
+
+>**sampling size** - actual sample size is also influenced by response rate.
+
+**testing before collecting of data** - *to check if the question is easy or hard to understand?*
+* pre-test - group of potential respondents to identify any problems with questions
+* pilot-test - trail all procedures and instruments to ensure test is ready for study
+
+**advantages of survey research**
+* can provide a wide coverage
+* affortable and cheaper than other approaches
+* collects data faster than other approaches
+* studies can be replicated relatively easily as measurements can be reused
+* can determine the relationships between the variables
+
+**disadvantages of survey research**
+* results may lack depth
+* may be an overemphasis on what can be counted and measured quantitatively
+* snapshot of points in time (e.g. the time that the survey was taken may influence the results)
+* does not establish cause and effect
+* does not provide as rich description of a situation as case study research
+
+## **Topic 8** : Conducting Survey Research
+### learning outcomes
+* what is survey research?
+* what are the main approaches used to collect data in survey research?
+* how does a research sample differ from a target population?
+* what is a sampling frame?
+* why are pre-testing and pilot testing used?
+* how do probability and non-probability sampling techniques differ?
+* what are the advantages of survey research?
+* what are the disadvantages of survey research?
