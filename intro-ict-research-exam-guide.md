@@ -11,6 +11,7 @@
 8. Conducting ICT Experiments
 9. Data Analysis
 10. Creating ICT Artefacts as Part of Research
+11. Case study research and action research
 
 ## Tutorials
 * [tutorial 1]()
@@ -550,3 +551,138 @@ additional materials:
 * disadvantages
     * creates artifical situations e.g. controlling irrelevant variables in which creates a situation that is artificial
 
+## **Topic 9** : Data Analysis
+### learning outcomes
+* What is the difference between quantitative and qualitative data analysis?
+* Give an example of each type of quantitative data: normal, ordinal, interval and ratio
+* What are the common descriptive statistics?
+* What is the difference between descriptive and inferential statistics?
+* What does it mean to test a hypothesis using statistics?
+* Desribe the different types of tests: chi-square, correlation and t-test
+* What are the advantages and disadvantages of qualitative analysis?
+
+**`recap`: Project research phases** -> *Analyse data*
+
+![research project phases](resources/images/research-project-phases.jpg)
+
+> *Having clarified that the research problem to be addressed with:*  
+> * Address aims/RQs/theories/models/hypotheses  
+> * Determine how the aims will be achieved and research questions answered
+
+**What is data analysis?** - *The process of using the data you have collected to answer your research questions*
+* Quantitative - *focus on numerical data (numbers) (`descriptive/inferential`)*
+    * `Nominal` data that describes categories, analysis involves counting and comapring frequencies or figures. 
+        * e.g. approximately 80% of mobile phones in australia are android and 20% are ios
+    * `Ordinal` data is measured on scale with order
+        * e.g. student grades or scales in questions (strongly disagree to strongly agree)
+    * `Interval` data is similar to `ordinal`, difference is between points of the scale
+        * e.g. temperature in degrees celsius or time on 12 hour clock
+    * `Ratio` data is similar to `interval` but there is a true zero point to the scale
+        * e.g. age in years or temperature in degrees kelvin
+* Qualitative - *focus on non-numerical data (text or other media such as interview recordings, company documents, websites or developer's model)*
+    * `commonly` generated for interview data, case studies and action research
+    * `objective` is abstracting themes and patterns that are relevant to the research topic or question
+    * analysing textual data
+        * data preparation
+        * analysis
+            * categorise according to `themes`, catogories can be deductive (based on existing theories) or inductive (based on the collected data)
+        * draw conclusion
+
+**Descriptive statistics** - *used to describe and summarise information about the sample*  
+* Graphical descrpition methods
+    * pie charts
+    * bar charts
+    * line charts
+    * box plots
+* Numerical descriptive methods
+    * measures of central tendency
+        * mean - average
+        * median - center value if all are listed in increasing order
+        * mode - most frequent value
+    * measures of variability
+        * range - difference between maximum and minimum value
+        * quartiles - top 25%, next 25% etc
+        * standard deviation - average distance of each value from the mean
+
+**Inferential statistics** - *used to make predictions or inferences about the population characteristics from the information contained in a sample*  
+* Chi-square - *used to test for differences between the observed distribution of data among categories and the expected distribution (based upon null hypothesis)*
+    * e.g. are males more likely than females to own a Raspberry Pi?
+        * Gender preference for learning
+        Pearson Chi-Square = 0.474, p = 0.485
+
+        ![chi-square test](resources/images/chi-square.png)
+* Correlation - *used to measure how variables or rank orders are related*
+    * r - *represents strength and direction of relationship (-1 to 1)*
+    * p - *represents probability that the relationship is significant (sig. in SPSS)*
+        * e.g. how is age related to TV watching?  
+
+        ![scatter plot](resources/images/correlation.jpg)  
+        ![corelation table](resources/images/correlation2.jpg)
+* T-test - *used to compare whether the mean of a single variable differs from a specified constant*
+    * means for 2 group - user satisfaction under 25 vs 25 and over
+    * means of 2 variables for a single group - before and after
+
+> ***When testing a hypothesis**, you accept or reject the hypothesis based on the information from the samples. So any sample will vary somewhat from its population, you must have a way of judging whether these differences are statistically significant or insignificant.*
+
+> Example:  
+> H1 - Users who receive training on how to remember passwords will create stronger passwords  
+> H0 - Users who receive training on how to remember passwords will not create stronger passwords (null hypothesis)  
+> If you find that passwords from the treatment group are stronger than those from the control group, how likely is it that the same would be true for the population?  
+>
+> **A common convention is to say that if the probability of the difference occurring by chance is less than 5% (p<=0.05) you can accept that the difference is ‘real’ or significant.**
+
+**advantages and disadvantages of qualitative**
+    * advantages
+        * close involvement of researcher in the situation under study facilitates insight
+        * research situation provides flexibility in data collection
+    * disadvantages
+        * hard to generalise because of small number of cases
+        * due to richness, data is usually open to variety of interpretations
+        * lack of accepted techniques for analysis
+
+## **Topic 10** : Creating ICT Artefacts as Part of Research
+### learning outcomes
+* name the 4 kinds of ict products that might be designed as part of an ict research?
+* how does design and creation research differ from system development?
+* what does `proof of concept` mean in the context of ict research
+* what criteria can be used when evaluating design and creation research?
+wat issues can be associated with the role of clients in desig and creation research?
+
+**`recap`: project research phases** -> *design research & collect data*
+
+![research project phases](resources/images/research-project-phases.jpg)
+
+**types of artefacts**
+* constructs - *concepts or vocabulary used in a particular it related domain (entities, object orientation etc.)*
+* models - *represent a situation and aid understanding and solution development (osi model etc.)*
+* methods - *approaches to solving problems (algorithms, system development methodologies etc.)*
+* instantiations - *working systems that demonstrate implementations in a system (aka as prototype or proof of concept)*
+
+**examples of ict design and creation research**
+1. ict can be the main focus of the research - e.g. a new technology or adpation for a new domain
+2. ict can be a vehicle for something else - e.g. developed to allow comparison of two algorithms
+3. the focus can be on the process of technology used or system development - e.g. new development approach where the system developed isnt the new contribution to knowledge
+    * design and creation might be the only approach to ict research if not, it can be combine with another type of research such as experimental research
+
+**proof of concept** - when ict instantiations are developed, oftenly, the researchers do not evaluate whether they would work in a real world context - a prototype is usually sufficient
+* `objective` - to show that something is possible aka `proof of concept` or `proof by demonstration`
+
+> *artefact is used for restricted task that may not scale up to a typical industry task  
+>
+> *artefact is tested by students or a small group of potential users, not *real* users
+
+**evaluation of design and creation research** - things to consider:
+* what kind of it artefact is created?
+* what differentiates the work from normal design and development work?
+* is there enough information given about the development methology?
+* do the researchers describe their use of any data generation methods?
+* is enough evaluation information provided?
+* do the researchers use their results to make generalisations? is this appropriate?
+* what limitations in their design and creation strategy do the researchers recognise?
+
+**clients** - provide funding and improve relevance but can be a conflict between the client's interests and researcher's interests
+
+**why is there a conflict?** - need to establish an agreement on the objectives, goals, confidentiality and intellectual property before research commences.
+
+## **Topic 11** : Case study research and action research 
+### learning outcomes
