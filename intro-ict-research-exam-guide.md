@@ -160,6 +160,10 @@ ___
         * output includes `project archives` and `lessons learned report`
         * most projects will include a final report or a presentation
 
+>**sample question**  
+>*“A project’s schedule depends only on the project’s task durations”. Do you agree or disagree with this statement? Explain your response.*  
+>I `disagree` with this statement because a project has a planned schedule or a deadline to deliver the output and the list of tasks will then be allocated based on the available time and resources given to the project. However, it is also true that the actual duration can be affected by the actual task completion date and time, as a result the project also somehow relies on the task durations.
+
 ___
 
 ### **Topic 3** : Literature Review
@@ -425,13 +429,124 @@ there were no slides..
 * does not establish cause and effect
 * does not provide as rich description of a situation as case study research
 
-## **Topic 8** : Conducting Survey Research
+## **Topic 8** : Conducting ICT Experiments
 ### learning outcomes
-* what is survey research?
-* what are the main approaches used to collect data in survey research?
-* how does a research sample differ from a target population?
-* what is a sampling frame?
-* why are pre-testing and pilot testing used?
-* how do probability and non-probability sampling techniques differ?
-* what are the advantages of survey research?
-* what are the disadvantages of survey research?
+* what is an experiment?
+* why would a control group be used in an experiment?
+* why is it good to randomly allocate participants to experiment groups?
+* what is the difference between a true experiment and a quasi-experiment?
+* what is an experimental design?
+* what is the main advantage of experimentation as a research strategy?
+* what decisions need to be made when designing an experiment?
+* wat are internal and external validity?
+
+> **what is an experiment** - *involves observation undert controlled conditions to test a `hypothesis`. it is one of the research strategies that investigates `cause and effect` of the relationship, also known as cauality, between variables namely, independent and dependent.
+> 
+> *all factors that may affect the results except factors that are hypothesised are excluded or controlled.*
+> objective of experiment - *to manipulate the `independent` variable(s) to observe changes in the `dependent` variable while controlling other factors.*
+
+**recap `hypotheses`** - *a statement about the relationships between variables.*
+
+**causality vs correlation**
+* `correlation` - *when there is a relationship between two variables*
+    * e.g. when this increase, that increase
+* `causality` - *when the change in one variable is the *cause* of a change in another variable*
+    * e.g. when this change, this will change that
+
+> **quick questions**  
+> which of the following hypotheses express a causal relationship?  
+> * h1: level of use is associated with user satisfaction with a system  
+> * h2: pair programming improves program quality
+> * h3: users who receive password memorisation training will create stronger passwords  
+> * h4:	users who believe they are vulnerable to security threats are more likely to believe that  threats will be severe  
+> ans: h1,h2,h3
+
+**why researchers prefer using experiments to answer research questions?**
+
+here are some of the characteristics of an experiment:
+* precise observations and measurements
+* proving or disproving hypotheses
+* identification of causal factors e.g. one direction links
+* explanation and prediction
+* repetition
+
+![cause-effect-iv-dv](resources/images/iv-dv.png)
+
+**purpose of controlling variables and the environment** - *isolate the elements from other variables so that there is no interference and no disruption to the experiment.*
+* eliminate the factor via exclusion criteria
+* hold the factor constant via inclusion criteria (if you cannot eliminate it)
+* use random selection or allocation
+* use a control group - *the difference from treatment group is the change in independent variable*
+
+![unwanted-factor-cause-effect](resources/images/unwanted.png)
+
+**random sampling vs random allocation**
+* random sampling - *samples that are randomly picked from the population of interest which also tells us that each item in the population has the same probability of being in the sample.*
+* random allocation - *allocation to experimental groups from the whole sample is random*
+    * `usually random sampling is done first then followed up random allocation`
+
+> **benefits of random sampling or allocation**
+> *Random assignment of participants helps to ensure that any differences between and within the groups are not systematic at the outset of the experiment. Thus, any differences between groups recorded at the end of the experiment can be more confidently attributed to the experimental procedures or treatment.* [*Source*](https://en.wikipedia.org/wiki/Random_assignment)
+
+> **importance of random sampling**
+> *Random assignment ensures that participants in a cause and effect study are unbiased as it prevents people’s history from causing an extraneous variable within the experiment.* [*Source*](https://dunekahnshillan.wordpress.com/2011/10/06/the-importance-of-random-assignment-in-creating-experiments/)
+
+**validity** - *measuring what the researchers set out to measure.*
+* internal - 
+    * threats
+        * differences between the experimental and control group
+        * historical events
+        * maturation - *impact of time as a variable in a study*
+        * instrumentation
+        * experimental mortality
+        * reactivity and experimental effects
+* external -  
+    * threats
+        * using samples that are not representative of the population
+        * insufficient participants
+        * non-representative test cases
+
+**types of experiment (not tested)**
+* true experiment vs field experiment
+    * true = lab = controlled environment = unrealistic settings
+    * field = lesser control = realistic settings = results can be influence by external factors
+* experimental design - *the way in which the experiment was designed. e.g. use of randomisation? use of control groups? number of experimental groups or pretesting of participants etc.*
+    * true or lab experiments - *high control but possibly unrealistic settings*
+    * quasi-experiments aka field experiments - *more realistic setting but lesser control due to the external factors that may influence the experiment result*
+
+**conditions to prove causality**
+* correlation - relationship between independent and dependent variable
+* time order - cause precedes effect in time (values of iv change then values of dv change). the cause and effect is after the treatment (e.g. fever, take medicine and temperature cools down)
+* rule out other possible explanations (only the two variables causes the effect, no other elements factors in which is why it is a controlled experiment)
+
+**steps for designing and conducting an experiment**
+1. select relevant variables
+2. specify levels of treatment
+3. ensure control of experimental environment
+4. choose the experimental design
+5. select and assign participants
+6. pilot test, revise, test - pretesting of procedures as well as instruments
+7. analyse data
+
+**advantages & disadvantages of experiment**
+* advantages
+    * well established method
+    * only way to demonstrate cause-effect relationship
+    * able to repeat experiments and extend results across people, time and situations.
+* disadvantages
+    * artificiality - limits the ability to generalise
+    * impossible to control all parameters
+    * difficult to recruit representative samples
+
+additional materials:  
+[8 Main Advantages and Disadvantages of Experimental Research](https://greengarageblog.org/8-main-advantages-and-disadvantages-of-experimental-research)
+
+* the `aim` of experimental research is to predict phenomenons
+* this is where a researcher manipulates one variable and controls or randomizers the rest of the variables
+* advantages
+    * able to control variables
+    * determining cause and effect relationship is easy
+    * provides better results
+* disadvantages
+    * creates artifical situations e.g. controlling irrelevant variables in which creates a situation that is artificial
+
