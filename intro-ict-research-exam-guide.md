@@ -24,6 +24,7 @@
 ___
 
 ### **Topic 1** : What is ICT Research?
+***tags**: research definition, types of research, research project phases, research approaches*
 ### learning outcomes
 * what is research?
 * what types of research occurs in ict?
@@ -33,6 +34,8 @@ ___
 
 > **what is `research`?** *it is the creation of new knowledge, using an appropriate process.
 > the definition of research are generally to do with observing and describing, predicting and determining causes.*
+>
+> in simpler terms, the goals of scientific research are to examine a sample demographic for the occurrence/non-occurrence of a phenomenon with the interest of generating new knowledge; knowledge which from scientific purposes has reliability and validity
 
 **types of Research**
 * exploratory research - *To get a better understanding, test the feasibility or determine the best method to be used in a subsequent study. Main objective is to identify key issues and key variables.*
@@ -83,6 +86,7 @@ ___
 ___
 
 ### **Topic 2** : Introduction to Project Management
+***tags**: project tools, process groups*
 ### learning outcomes
 * what is project management?
 * why is project management so important?
@@ -168,6 +172,7 @@ ___
 ___
 
 ### **Topic 3** : Literature Review
+***tags**: literature review, research structure*
 ### learning outcomes
 * what are the objectives of a literature review
 * ~~can you find and obtain relevant published literature?~~
@@ -205,6 +210,7 @@ ___
 ___
 
 ### **Topic 4** : Scientific Investigation
+***tags**: independent/dependent variables, hypothesis*
 ### learning outcomes
 * what is explanatory research?
 * what is a variable?
@@ -278,6 +284,7 @@ may include:
 there were no slides..
 
 ## **Topic 6** : Monitoring & Controlling Project Deliverables
+***tags**: monitoring and quality control*
 ### learning outcomes
 * why must projects be monitored and controlled?
 * what are the key monitoring and controlling processes?
@@ -330,6 +337,7 @@ there were no slides..
 *try to explain each process group with examples.*
 
 ## **Topic 7** : Conducting Survey Research
+***tags**: survey research, approaches to collect data, sampling size/frame, pre-test and pilot-test*
 ### learning outcomes
 * what is survey research?
 * what are the main approaches used to collect data in survey research?
@@ -431,6 +439,7 @@ there were no slides..
 * does not provide as rich description of a situation as case study research
 
 ## **Topic 8** : Conducting ICT Experiments
+***tags**: experiments, causality, correlation, random sampling, random allocation, validity (internal/external)*
 ### learning outcomes
 * what is an experiment?
 * why would a control group be used in an experiment?
@@ -540,7 +549,7 @@ here are some of the characteristics of an experiment:
     * difficult to recruit representative samples
 
 additional materials:  
-[8 Main Advantages and Disadvantages of Experimental Research](https://greengarageblog.org/8-main-advantages-and-disadvantages-of-experimental-research)
+* [8 Main Advantages and Disadvantages of Experimental Research](https://greengarageblog.org/8-main-advantages-and-disadvantages-of-experimental-research)
 
 * the `aim` of experimental research is to predict phenomenons
 * this is where a researcher manipulates one variable and controls or randomizers the rest of the variables
@@ -552,6 +561,7 @@ additional materials:
     * creates artifical situations e.g. controlling irrelevant variables in which creates a situation that is artificial
 
 ## **Topic 9** : Data Analysis
+***tags**: qualitative/quantitative analysis, types of test (chi-square/correlation/t-test), inferrential/descriptive statistics*
 ### learning outcomes
 * What is the difference between quantitative and qualitative data analysis?
 * Give an example of each type of quantitative data: normal, ordinal, interval and ratio
@@ -641,6 +651,7 @@ additional materials:
         * lack of accepted techniques for analysis
 
 ## **Topic 10** : Creating ICT Artefacts as Part of Research
+***tags**: ict artefacts, proof of concept, design and creation research, *
 ### learning outcomes
 * name the 4 kinds of ict products that might be designed as part of an ict research?
 * how does design and creation research differ from system development?
@@ -685,4 +696,101 @@ wat issues can be associated with the role of clients in desig and creation rese
 **why is there a conflict?** - need to establish an agreement on the objectives, goals, confidentiality and intellectual property before research commences.
 
 ## **Topic 11** : Case study research and action research 
+***tags**: case study research, action research*
 ### learning outcomes
+* what is case study research?
+* what key decisions are made when planning a case study research project?
+* what are the advantages and disadvantages of case study research
+* how might data be collected in case study research?
+* why are multiple data collection methods used in case study and action research?
+* what stages do action research projects include?
+* what are the advantages and disadvantages of action research?
+
+**case study** - *Focuses on one instance (case) of the thing that is to be investigated. The objective is to give a rich and detailed description of the thing and its relationships and processes.*
+
+**key characteristics of case study research**
+* depth rather than breadth
+* phenomenon are examined in natural settings
+* one or a few entities (people/groups/organisations) are examined
+* multiple data sources and data generation methods.
+* no experimental controls or manipulations
+
+> **some ict examples of case study research**  
+> * Code-Red: a case study on the spread and victims of an Internet worm (Moore, & Shannon, 2002)   
+> * Community, joining, and specialization in open source software innovation: a case study (von Krogh, Spaeth, & Lakhani, 2003)  
+> * Security versus performance bugs: A case study on Firefox (Zaman, Adams, & Hassan, 2011)  
+>
+> find an example for exam..
+
+**designing a case study research**
+* type of case study 
+    * exploratory - *when there is little literature available about the research topic or to develop a hypothese about a new research topic*
+    * descriptive - *describes the situation without speculating about why things happened*
+    * explanatory - *to explain why things happened*
+* approach (historical, contemporary or longitudianl)
+    ![case-study-approach](resources/images/case-study-approach.png)
+* selection of cases 
+    * multiple case design
+        * allows croos-case analysis and the extension of theory. yields more general research results than a single case.
+    * single case design
+        * a revelatory case - *the situation was preiously inaccessible o scientific research*
+        * represents a critical case for testing a well formulated theory
+        * extreme or unique case
+* data collection methods
+    * ideally evidence from two or more sources will coverge to support the research findings (triangulation)
+        * source of data:
+            * documentation (memos/formal reports/org chartss/finance reports)
+            * interviews (open ended/focused)
+            * direct observation
+            * artefacts (hardware/software)
+
+**case study research - advantages and aisadvantages**
+* advantages
+    * good for complex problems where it is difficult to study a single factor in an isolated environment
+    * good for situations where the researcher has little control
+    * good way to research new areas and learn about the state of the art and generate theories from practice
+* disadvantages
+    * can lack rigour and lead to generalisation with poor credibility
+    * can be difficult and time-consuming to conduct the research
+
+**action research** - an approach pursue action (or change) and research at the same time.
+(**note the two requirements) The goal is to have a (1) practical outcome as well as (2) research outcome. The problem to solved is often defined by the participants (e.g. managers at the research site)
+
+>*An example could be conducting a higly unstructured field experiment on ourselves together with others.*
+
+**key characteristics of action research**
+* concentrate on practical issues
+* usually iterative with a `plan-act-reflect` cycle
+* emphasis on change
+* collaboration with practitioners
+* multiple data generation methods
+* action outcomes plus research outcomes
+
+> **some ict examples of action research**  
+> * Wiki technology and emergency response: An action research study (Raman, Ryan, Jennex & Olfman, 2010) 
+> * IT business cases in local government: An action research study (Nielsen & Persson, 2012)
+> * Improving employee’s compliance through information systems security training: An action research study (Puhakainen & Siponen, 2010)
+>
+> find an example for exam..
+
+**conducting a action research**
+* stages
+    * diagnosis
+    * planning
+    * intervention
+    * evaluation
+    * reflection
+
+**action research - advantages and aisadvantages**
+* advantages
+    * practical outcomes for participants - *can solve immediate practical problems*
+    * real world problems addressed - *increased relevance of research*
+    * useful for development and refinement of systemdevelopment and other problem solving methods.
+* disadvantages
+    * can lack rigour and lead to generaltisations with poor credibility
+    * potential for bias and conflicts of interest
+    * can be difficult and time-consuming to conduct
+
+additional materials:  
+* [Simplifying Design Science Research, Action Research and Design Research](https://medium.com/@3D_Ideation/simplifying-design-science-research-action-research-and-design-research-bf564959402b)
+* [ACTION RESEARCH IN RELATION TO OTHER TYPES OF RESEARCH](https://wikieducator.org/ACTION_RESEARCH_IN_RELATION_TO_OTHER_TYPES_OF_RESEARCH)
