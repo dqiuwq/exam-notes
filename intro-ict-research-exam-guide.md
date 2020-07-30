@@ -18,6 +18,11 @@
 * [tutorial 2]()
 * [tutorial 3]()
 * [tutorial 4]()
+* [tutorial 5]()
+* [tutorial 6]()
+* [tutorial 7]()
+* [tutorial 8]()
+* [tutorial 9]()
 * [tutorial 10]()
 * [tutorial 11](https://kaplanint-my.sharepoint.com/:x:/g/personal/elam_apac_kaplaninc_com/EW5CWtF_xXFKpfJXfAdPubEBohnTFimNlpwRs9i7tVjxFA?rtime=6ww4dlou2Eg)
 
@@ -98,6 +103,7 @@ ___
 > **what is a `project`?**  
 > *It is a temporary endeavor undertaken to create a unique product, service, or result.*  
 > *`Characteristics` of a project includes unique purpose, temporary, requires resources, involves uncertainty or risk and has a deliverable.*
+>> [project characteristics example](https://opentextbc.ca/projectmanagement/chapter/chapter-2-what-is-a-project-project-management/)
 
 > **what is `project management`?**
 > *Applies knowledge, skills, tools and techniques to manage activities and processes to improve project outcomes.*  
@@ -251,7 +257,11 @@ may include:
     * operational definitions such as processor speed (mghz) or weight (mg/g/kg)
 * `hypotheses` - *a statement about the relationship between the iv and dv*
     * the relationship in a hypothesis specifies how the value of one variable changes in relation to another.
-        * *the relationship may be positive or negative or the variables may have no relationship to one another (aka null hypotheses h0)*
+        >* *the relationship may be positive or negative or the variables may have no relationship to one another (aka null hypotheses h0)*
+        >
+        > an example:
+        > ![null hypothesis examples](resources/images/null-hypothesis-examples.png)
+        > [image source](https://www.thoughtco.com/null-hypothesis-examples-609097)
     * some examples:
         * *h1 - `system quality` positively affects `user satisfaction` with the system*
             * iv - system quality
@@ -767,19 +777,30 @@ wat issues can be associated with the role of clients in desig and creation rese
 * action outcomes plus research outcomes
 
 > **some ict examples of action research**  
-> * Wiki technology and emergency response: An action research study (Raman, Ryan, Jennex & Olfman, 2010) 
-> * IT business cases in local government: An action research study (Nielsen & Persson, 2012)
+> * [Wiki technology and emergency response: An action research study (Raman, Ryan, Jennex & Olfman, 2010)](resources/literatures/Action%20Research.pdf)
+> * [IT business cases in local government: An action research study (Nielsen & Persson, 2012)](resources/literatures/Action%20Research%203.pdf)
 > * Improving employee’s compliance through information systems security training: An action research study (Puhakainen & Siponen, 2010)
 >
 > find an example for exam..
 
-**conducting a action research**
+**stages for conducting a action research**
 * stages
     * diagnosis
     * planning
     * intervention
     * evaluation
     * reflection
+
+>Example 1  
+>
+>![Canonical action research - Davison et al 2004](resources/images/Canonical-action-research-Davison-et-al-2004.png)  
+>[image source](https://www.researchgate.net/figure/Canonical-action-research-Davison-et-al-2004_fig1_280978211)
+
+
+>Example 2  
+>
+>![The cycle of action research process](resources/images/The-cycle-of-the-action-research-process-for-this-study.png)  
+>[image source](https://www.researchgate.net/figure/The-cycle-of-the-action-research-process-for-this-study_fig1_309571582)
 
 **action research - advantages and aisadvantages**
 * advantages
