@@ -3,28 +3,28 @@
 ## Topics
 1. [What is ICT Research?](#topic-1-:-what-is-ict-research?)
 2. [Introduction to Project Management](#topic-2-:-introduction-to-project-management)
-3. Literature Review
-4. Scientific Investigation
-5. Ethical Considerations in ICT Research
-6. Monitoring & Controlling Project Deliverables
-7. Conducting Survey Research
-8. Conducting ICT Experiments
-9. Data Analysis
-10. Creating ICT Artefacts as Part of Research
-11. Case study research and action research
+3. [Literature Review](#topic-3-:-Literature-Review)
+4. [Scientific Investigation](#Topic-4-:-Scientific-Investigation)
+5. [Ethical Considerations in ICT Research](#Topic-5-:-Ethical-Considerations-in-ICT-Research)
+6. [Monitoring & Controlling Project Deliverables](#Topic-6-:-Monitoring-&-Controlling-Project-Deliverables)
+7. [Conducting Survey Research](#Topic-7-:-Conducting-Survey-Research)
+8. [Conducting ICT Experiments](#Topic-8-:-Conducting-ICT-Experiments)
+9. [Data Analysis](#Topic-9-:-Data-Analysis)
+10. [Creating ICT Artefacts as Part of Research](#Topic-10-:-Creating-ICT-Artefacts-as-Part-of-Research)
+11. [Case study research and action research](#Topic-11-:-Case-study-research-and-action-research)
 
 ## Tutorials
-* [tutorial 1]()
-* [tutorial 2]()
-* [tutorial 3]()
-* [tutorial 4]()
-* [tutorial 5]()
-* [tutorial 6]()
-* [tutorial 7]()
-* [tutorial 8]()
-* [tutorial 9]()
-* [tutorial 10]()
-* [tutorial 11](https://kaplanint-my.sharepoint.com/:x:/g/personal/elam_apac_kaplaninc_com/EW5CWtF_xXFKpfJXfAdPubEBohnTFimNlpwRs9i7tVjxFA?rtime=6ww4dlou2Eg)
+* ~~tutorial 1~~
+* ~~tutorial 2~~
+* [tutorial 3](https://kaplanint-my.sharepoint.com/:w:/g/personal/elam_apac_kaplaninc_com/EWiKHqRKqklFvupllKW_s10Bv9-UIXDCSOBXUHNqNAV0zQ?rtime=Z3hxBrb810g)
+* [tutorial 4](https://kaplanint-my.sharepoint.com/:x:/g/personal/elam_apac_kaplaninc_com/EZvbVKqID8pNpVRpPfcnQR4BDTHXSlxsmvNFoY6g7NF0CQ?e=4EITac)
+* [tutorial 5](https://kaplanint-my.sharepoint.com/:w:/g/personal/elam_apac_kaplaninc_com/EZVi6ZjxuZlIm4OVj_E3-iUBuMF1PUhMMANneqgzhf958w?rtime=hGAVXbMH2Eg)
+* ~~tutorial 6~~
+* [tutorial 7](https://bit.ly/30Ee1dO)
+* ~~tutorial 8 pt 1~~, [tutorial 8 pt 2](https://bit.ly/3cZki6c)
+* [tutorial 9](bit.ly/2AdkCkB)
+* [tutorial 10](https://kaplanint-my.sharepoint.com/:x:/g/personal/elam_apac_kaplaninc_com/EW5CWtF_xXFKpfJXfAdPubEBohnTFimNlpwRs9i7tVjxFA?rtime=JW0C37Uo2Eg)
+* ~~tutorial 11~~
 
 ___
 
@@ -37,56 +37,75 @@ ___
 * what are usually the main stages in a research project?
 * what are these research approaches?
 
-> **what is `research`?** *it is the creation of new knowledge, using an appropriate process.
+**what is `research`?** - *it is the creation of new knowledge, using an appropriate process.
 > the definition of research are generally to do with observing and describing, predicting and determining causes.*
->
-> in simpler terms, the goals of scientific research are to examine a sample demographic for the occurrence/non-occurrence of a phenomenon with the interest of generating new knowledge; knowledge which from scientific purposes has reliability and validity
+>> in simpler terms, the goals of scientific research are to examine a sample demographic for the occurrence/non-occurrence of a phenomenon with the interest of generating new knowledge; knowledge which from scientific purposes has reliability and validity
 
-**types of Research**
+**scientific or academic research** - *an investigation on the basic principles and reasons for occurence of a particular event or process or phenomenon. Also known as theoretical research. Note that a research does not concern with solving any practical problems of immediate interest. It basically provides a systematic and deep insight into a problem and facilitates extraction of scientific and logical explanation and clusion on the topic.*  
+>>academic research is about finidng out something that is not already known. A research must be novel, verifiable, repeatable and reported in a certain way.
+
+**aims of research**
+* observing and describing
+* predicting
+* determining causes
+
+**outcomes of a research**
+* a new or improved product
+* a new or modified model or theory
+* a new or improved technique
+* more understanding of a particular topic
+
+**types or categories of research**
 * exploratory research - *To get a better understanding, test the feasibility or determine the best method to be used in a subsequent study. Main objective is to identify key issues and key variables.*
+> finding out when little is known. beinging of a new research area.
 * descriptive research - *To study on something new or something that people are not aware about. It is directed towards answering questions such as what is this? e.g. what is covid19?*
+> creating a picture of what is going on without explaining why.
 * explanatory research - *To understand or to explain relationships between targeted variables. Often uses correlations to study relationships between characteristics off individuals, groups, situations or events.*
+> understanding the cause and effect of things.
 
-> **scientific or academic research** - *an investigation on the basic principles and reasons for occurence of a particular event or process or phenomenon. Also known as theoretical research. Note that a research does not concern with solving any practical problems of immediate interest. It basically provides a systematic and deep insight into a problem and facilitates extraction of scientific and logical explanation and clusion on the topic.*
+**ict research** - *the creation of new knowledge in any area of ICT where the goal is the creation of new knowledge*
 
-> **ict research** - *the creation of new knowledge in any area of ICT*
-
-> **project** vs **research Project** - *it is a temporary sequence of unique and connected activites having one goal or purpose and that must be completed by a specific time, within budget, and according to specification.*
+**project** vs **research Project** - *it is a temporary sequence of unique and connected activites having one goal or purpose and that must be completed by a specific time, within budget, and according to specification.*
 > *A research project is a project where the goal or purpose is to **create new knowledge***
 
 **research project phases** ***be prepared to describe each phase..*
-* read relevant literature - *(topic 3)*
-* `define research problem` - *this is the phase whereby you define your problem statement along with the variables involved (`independent/dependent`), `hypotheses`, `theories` and `models`. if there are no specific questions, you should then define your research aim or objective clearly. (topic 4)*
-* `design research` - 
-* `collect data` - 
-* `analyse data` - 
-* `report findings` - 
-
-> **sample question**   
->A research project commonly includes the following phases: define research problem, design research, collect data, analyse data and report findings.   
->
-> In your own words, briefly describe what **`occurs`** in each of these phases.
+* `read relevant literature` - *gather ideas, understand the topic or problem, finding out what is already known*
+* `define research problem` - *define research question or problem statement, variables involved (`independent/dependent`), `hypotheses`, `theories` and `models`. if there are no specific questions, you should then define your research aim or objective clearly.*
+* `design research` - *determine how the aims can be achieved and research questions answered, choosing a research strategy or approach to determine how we generate data for analysis*
+* `collect data` - *depending on which approach or strategy was used, the data will be collected based on it*
+* `analyse data` - *depending on the type of data that was collected, either quantitative or qualitative, testing of hypotheses*
+* `report findings` - *present findings and conclusions*
 
 **types of research approaches**
 * survey - *collects the same data from a large group of people*
+    > collecting and analysing data to identify patterns and trends
     * data can be `quantitative` or `qualitative`
     * data collection must be designed and administered to minimise bias so that data can be effectively analysed
     * used frequently in information systems
     * some examples include unit surveys, market research
-* design and creation - *focuses on developing new products*
-    * products can be a system or it can be a development process, method or model
-    * some examples includes intelligent systems, network protocols, development methodologies
 * experiment - *designed to find relationships between selected variables in an environment*
+    > finding the relationship of selected variables in a controlled environment
     * either a laboratory-based or field experiments
     * some examples include human computer interface (HCI) studies, system performance comparisons, pair-programming vs solo etc
+* design and creation - *focuses on developing new products*
+    > developing a new ict product, model, or method
+    * products can be a system or it can be a development process, method or model
+    * some examples includes intelligent systems, network protocols, development methodologies
 * case study - *focuses on one or a few instances of an interest*
+    > indepth studing on one or a few instances
     * cases can be anything from organisations, systems, projects, events
     * studies in depth using multiple methods of data collection
     * some examples include reasons for user resistance to new type of system, problems with system development methodologies
 * action research - *focuses on practical issues or fact findings to improve the quality of action*
+    > producting both practical outcomes and research outcomes
     * it has both `practical outcomes` as well as `research outcomes` (2 outcomes)
     * it is similar to case study approach except that it involves the active contribution of the researcher to the situation being studied.
     * some examples include improving employees' compliance with security policies, improving business processing via introduction of tablets
+
+additional materials
+* [Understanding Research](https://www.etu.org.za/toolbox/docs/development/research.html)
+* [Definition of Research](https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/dest_definition_of_research)
+* [Research Wiki](https://simple.wikipedia.org/wiki/Research#:~:text=Research%20is%20the%20process%20of,facts%20in%20an%20organised%20way.&text=Research%20is%20done%20by%20applying,trying%20to%20better%20explain%20observations.)
 
 ___
 
