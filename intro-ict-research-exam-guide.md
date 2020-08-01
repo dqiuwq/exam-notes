@@ -97,7 +97,7 @@ ___
     * studies in depth using multiple methods of data collection
     * some examples include reasons for user resistance to new type of system, problems with system development methodologies
 * action research - *focuses on practical issues or fact findings to improve the quality of action*
-    > producting both practical outcomes and research outcomes
+    > producing both practical outcomes and research outcomes
     * it has both `practical outcomes` as well as `research outcomes` (2 outcomes)
     * it is similar to case study approach except that it involves the active contribution of the researcher to the situation being studied.
     * some examples include improving employees' compliance with security policies, improving business processing via introduction of tablets
@@ -301,6 +301,8 @@ may include:
 >
 > Identify a research question and hypothesis for a research study you might undertake to investigate one aspect of this issue. Label the independent variable and the dependent variable in your hypothesis.
 
+___
+
 ## **Topic 5** : Ethical Considerations in ICT Research
 ### learning outcomes
 * benefits and harsm of each course of action
@@ -311,6 +313,8 @@ may include:
 * demonstrate compassionte care
 
 there were no slides..
+
+___
 
 ## **Topic 6** : Monitoring & Controlling Project Deliverables
 ***tags**: monitoring and quality control*
@@ -364,6 +368,8 @@ there were no slides..
 5. closing
 
 *try to explain each process group with examples.*
+
+___
 
 ## **Topic 7** : Conducting Survey Research
 ***tags**: survey research, approaches to collect data, sampling size/frame, pre-test and pilot-test*
@@ -467,6 +473,8 @@ there were no slides..
 * does not establish cause and effect
 * does not provide as rich description of a situation as case study research
 
+___
+
 ## **Topic 8** : Conducting ICT Experiments
 ***tags**: experiments, causality, correlation, random sampling, random allocation, validity (internal/external)*
 ### learning outcomes
@@ -479,7 +487,7 @@ there were no slides..
 * what decisions need to be made when designing an experiment?
 * wat are internal and external validity?
 
-> **what is an experiment** - *involves observation undert controlled conditions to test a `hypothesis`. it is one of the research strategies that investigates `cause and effect` of the relationship, also known as cauality, between variables namely, independent and dependent.
+> **what is an experiment** - *involves observation undert controlled conditions to test a `hypothesis`. it is one of the research strategies that investigates `cause and effect` of the relationship, also known as causalilty, between variables namely, independent and dependent.
 > 
 > *all factors that may affect the results except factors that are hypothesised are excluded or controlled.*
 > objective of experiment - *to manipulate the `independent` variable(s) to observe changes in the `dependent` variable while controlling other factors.*
@@ -589,6 +597,8 @@ additional materials:
 * disadvantages
     * creates artifical situations e.g. controlling irrelevant variables in which creates a situation that is artificial
 
+___
+
 ## **Topic 9** : Data Analysis
 ***tags**: qualitative/quantitative analysis, types of test (chi-square/correlation/t-test), inferrential/descriptive statistics*
 ### learning outcomes
@@ -679,6 +689,11 @@ additional materials:
         * due to richness, data is usually open to variety of interpretations
         * lack of accepted techniques for analysis
 
+**additional materials**
+* [Statistical tests: which one should you use?](https://www.scribbr.com/statistics/statistical-tests/)
+
+___
+
 ## **Topic 10** : Creating ICT Artefacts as Part of Research
 ***tags**: ict artefacts, proof of concept, design and creation research, *
 ### learning outcomes
@@ -723,6 +738,8 @@ wat issues can be associated with the role of clients in desig and creation rese
 **clients** - provide funding and improve relevance but can be a conflict between the client's interests and researcher's interests
 
 **why is there a conflict?** - need to establish an agreement on the objectives, goals, confidentiality and intellectual property before research commences.
+
+___
 
 ## **Topic 11** : Case study research and action research 
 ***tags**: case study research, action research*
