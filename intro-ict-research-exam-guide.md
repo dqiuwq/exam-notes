@@ -497,7 +497,7 @@ ___
 **causality vs correlation**
 * `correlation` - *when there is a relationship between two variables*
     * e.g. when this increase, that increase
-* `causality` - *when the change in one variable is the *cause* of a change in another variable*
+* `causality` - *when the change in one variable is the *cause* of a change in another variable (first being the cause and second being the effect)*
     * e.g. when this change, this will change that
 
 > **quick questions**  
@@ -506,7 +506,6 @@ ___
 > * h2: pair programming improves program quality
 > * h3: users who receive password memorisation training will create stronger passwords  
 > * h4:	users who believe they are vulnerable to security threats are more likely to believe that  threats will be severe  
-> ans: h1,h2,h3
 
 **why researchers prefer using experiments to answer research questions?**
 
