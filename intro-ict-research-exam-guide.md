@@ -312,7 +312,14 @@ ___
 * develop moral virtues
 * demonstrate compassionte care
 
-there were no slides..
+**Keep in mind** ([source](https://www.niehs.nih.gov/research/resources/bioethics/whatis/index.cfm#:~:text=There%20are%20several%20reasons%20why,the%20truth%20and%20minimize%20error.))
+* Integrity → Keep your promises and agreements; act with sincerity; strive for consistency of thought and action.
+* Honesty → Strive for honesty in all scientific communications. Honestly report data, results, methods and procedures, and publication status. Do not fabricate, falsify, or misrepresent data. Do not deceive colleagues, research sponsors, or the public.
+* Openness → Share data, results, ideas, tools, resources. Be open to criticism and new ideas.
+* Carefulness → Avoid careless errors and negligence; carefully and critically examine your own work and the work of your peers. Keep good records of research activities, such as data collection, research design, and correspondence with agencies or journals.
+* Objectivity → Strive to avoid bias in experimental design, data analysis, data interpretation, peer review, personnel decisions, grant writing, expert testimony, and other aspects of research where objectivity is expected or required. Avoid or minimize bias or self-deception. Disclose personal or financial interests that may affect research.
+* Confidentiality → Protect confidential communications, such as papers or grants submitted for publication, personnel records, trade or military secrets, and patient records.
+* Competence → Maintain and improve your own professional competence and expertise through lifelong education and learning; take steps to promote competence in science as a whole.
 
 ___
 
@@ -452,6 +459,10 @@ ___
     > dead end is when someone who refuse to give you contact
     * convenience sampling - *researchers simply select respondents who are convenient for them (e.g. easy to reach or willing to help)*
     > e.g. i am a tutor who has access to students of my class
+
+> examples of non-probability and probability sampling
+>>**non-probability** - *I have a company employee satisfaction survey to fill, I pick 1 employees from each departments to complete the survey.*  
+>>**probibility** - *I pick the leader from each department to complete the survey.*
 
 >**sampling size** - actual sample size is also influenced by response rate.
 
